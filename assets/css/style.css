@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#principal{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    border-radius: 7px;
+}
+hr{
+    height: 1px;
+    width: 450px;
+    background-color:white;
+}
+#secundario{
+    height: 300px;
+    width: 300px;
+    background-color: grey;
+    border-radius: 5%;
+}
+.grafico{
+    margin-top: 30px;
+   
+}
+#myChart{
+    height: 500px;
+    width: 1000px;
+    
+}
+.conversor{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+#buscar{
+    margin-top: 15px;
+    
+}
